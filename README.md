@@ -6,7 +6,7 @@ Desenvolvendo um micro-serviço com node e kafka.
 
 ## Aplicações
 
-- API principal; 
+- API principal;
 - Geração de certificado;
 
 ## Fluxo 
